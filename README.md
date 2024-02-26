@@ -1,4 +1,4 @@
-# SummarizationUsingPrompts
+# SpeechSummarizationUsingPrompts
 Includes Basic Prompt Summarization, Prompt Templates Text Summarization, StuffDocumentChain, Map Reduce and Refine Chain
 
 
